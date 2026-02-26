@@ -1,1 +1,2 @@
 Created in newBranch
+The Branch is merged
